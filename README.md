@@ -13,11 +13,17 @@ I wanted a setup that gave me visibility across the network and endpoints. Here 
 ## Project Progress
 
 [✓] [Wazuh Setup](docs/Wazuh-Setup.pdf)
+
 [✓] [pfSense Integration](docs/pfSense%20Integration.pdf)
+
 [✓] [Suricata Integration](docs/Suricata%20Integration.pdf)
+
 [✓] [Log Collection](docs/Configuring%20log%20collection.pdf)
+
 [✓] [File Integrity Monitoring](docs/File%20integrity%20monitoring.pdf)
+
 [ ] Integrate SOAR platform
+
 [ ] Deploy Honeypot
 
 ---
