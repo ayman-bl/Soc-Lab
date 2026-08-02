@@ -5,7 +5,7 @@ I’ve been working on building my own SOC  lab to get hands-on experience with 
 ## What's in the Lab (so far)
 I wanted a setup that gave me visibility across the network and endpoints. Here is the core tech stack I’m currently running in my virtual environment:
 
-![Lab Overview](docs/Untitled%20Diagram.drawio.png)
+![Lab Overview](docs/lab-arch.png)
 
 - **Wazuh Server:** A dedicated virtual machine serving as the brain of the whole setup (SIEM/XDR).
 - **pfSense:** A dedicated virtual firewall to manage and filter traffic.
